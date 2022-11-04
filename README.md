@@ -3,6 +3,10 @@
 Aquí se encuentra el contenido del curso **Programando en C# 10 - De Principiante a Profesional
 ** impartido por Felipe Gavilán en la plataforma de Udemy.
 
+## Link del curso
+
+https://www.udemy.com/course/programando-en-csharp-de-principiante-a-profesional/
+
 ## Contenido general
 
 1. Introducción
