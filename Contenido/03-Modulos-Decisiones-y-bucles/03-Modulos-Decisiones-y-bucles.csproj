@@ -12,8 +12,4 @@
     <None Remove="Ejercicios\" />
     <None Remove="Codigo\" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Ejercicios\" />
-    <Folder Include="Codigo\" />
-  </ItemGroup>
 </Project>
