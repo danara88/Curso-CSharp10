@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>_03_Modulos_Decisiones_y_bucles</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Ejercicios\" />
+    <None Remove="Codigo\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Ejercicios\" />
+    <Folder Include="Codigo\" />
+  </ItemGroup>
+</Project>
