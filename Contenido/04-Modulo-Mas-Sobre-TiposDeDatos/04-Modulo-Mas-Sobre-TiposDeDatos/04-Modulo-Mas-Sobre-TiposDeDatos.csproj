@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net7.0</TargetFramework>
-    <RootNamespace>_04_Modulo_Mas_sobre_TiposDatos</RootNamespace>
+    <RootNamespace>_04_Modulo_Mas_Sobre_TiposDeDatos</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
