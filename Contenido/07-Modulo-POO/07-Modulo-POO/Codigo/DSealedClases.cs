@@ -27,7 +27,7 @@
         public class MacBook : Computadorta
         {
             // Sealed: Obligo a mis otras clases derivadas a utilizar esta implementacion.
-            // No podran sobr escribir el metodo.
+            // No podran sobrescribir el metodo.
             public sealed override void Apagar()
             {
                 Console.WriteLine("La computadora se esta apagando.");
